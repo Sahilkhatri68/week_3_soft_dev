@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\bin\Debug\net6.0\Explense_tracker.exe
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\bin\Debug\net6.0\Explense_tracker.deps.json
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\bin\Debug\net6.0\Explense_tracker.runtimeconfig.json
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\bin\Debug\net6.0\Explense_tracker.dll
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\bin\Debug\net6.0\ref\Explense_tracker.dll
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\bin\Debug\net6.0\Explense_tracker.pdb
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\obj\Debug\net6.0\Explense_tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\obj\Debug\net6.0\Explense_tracker.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\obj\Debug\net6.0\Explense_tracker.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\obj\Debug\net6.0\Explense_tracker.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\obj\Debug\net6.0\Explense_tracker.dll
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\obj\Debug\net6.0\ref\Explense_tracker.dll
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\obj\Debug\net6.0\Explense_tracker.pdb
+C:\Users\LENOVO\Desktop\BMI_Calculator\Explense_tracker\Explense_tracker\obj\Debug\net6.0\Explense_tracker.genruntimeconfig.cache

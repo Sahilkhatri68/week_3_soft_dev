@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\bin\Debug\net6.0\small_business_cal.exe
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\bin\Debug\net6.0\small_business_cal.deps.json
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\bin\Debug\net6.0\small_business_cal.runtimeconfig.json
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\bin\Debug\net6.0\small_business_cal.dll
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\bin\Debug\net6.0\ref\small_business_cal.dll
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\bin\Debug\net6.0\small_business_cal.pdb
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\obj\Debug\net6.0\small_business_cal.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\obj\Debug\net6.0\small_business_cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\obj\Debug\net6.0\small_business_cal.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\obj\Debug\net6.0\small_business_cal.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\obj\Debug\net6.0\small_business_cal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\obj\Debug\net6.0\small_business_cal.dll
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\obj\Debug\net6.0\ref\small_business_cal.dll
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\obj\Debug\net6.0\small_business_cal.pdb
+C:\Users\LENOVO\Desktop\BMI_Calculator\small_business_cal\small_business_cal\obj\Debug\net6.0\small_business_cal.genruntimeconfig.cache
